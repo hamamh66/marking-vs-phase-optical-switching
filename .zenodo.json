@@ -1,0 +1,8 @@
+{
+ "title": "Path marking versus phase programming for programmable optical switching: reproducible computations",
+ "upload_type": "software",
+ "creators": [{"name": "Hamam, Habib", "affiliation": "Université de Moncton"}],
+ "description": "Jupyter notebook with outputs reproducing the four-path polarisation-marking witness (closed-form phase-only maximum and branch-and-bound confirmation), far-field readout, path-phase randomisation threshold and exploratory survey for the article 'Path Marking versus Phase Programming for Programmable Optical Switching'.",
+ "license": "MIT",
+ "keywords": ["wave-particle complementarity", "path marking", "partial coherence", "optical switching", "correlation matrices"]
+}
