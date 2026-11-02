@@ -1,0 +1,33 @@
+{
+ "jones_rows": [
+  [
+   "(1+0j)",
+   "0j"
+  ],
+  [
+   "0j",
+   "(1+0j)"
+  ],
+  [
+   "(0.7071067811865475+0j)",
+   "(0.7071067811865475+0j)"
+  ],
+  [
+   "(0.7071067811865475+0j)",
+   "0.7071067811865475j"
+  ]
+ ],
+ "collected_marked": 1,
+ "phase_only_max_closed_form": 0.9826418277832761,
+ "phase_only_maximiser_over_pi": [
+  0,
+  1.75,
+  1.875,
+  0.125
+ ],
+ "phase_only_upper_bound_bnb": 0.9826420777832758,
+ "bnb_tolerance": 0.000001,
+ "margin": 0.017358172216723866,
+ "randomization_crossing": 0.03471634443344773,
+ "far_field_recovery_error": 2.482534153247273e-16
+}
